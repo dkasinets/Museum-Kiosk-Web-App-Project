@@ -1,0 +1,16 @@
+{
+  "name": "Museum Kiosk by Dzmitry Kasinets",
+  "short_name": "Kiosk",
+  "lang": "en-US",
+  "start_url": "https://dkasinets.github.io/index.html",
+  "display": "standalone",
+  "theme_color": "#cbc4b1",
+  "icons": [
+    {
+      "src": "https://dkasinets.github.io/images/MoMaicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#cbc4b1"
+}
